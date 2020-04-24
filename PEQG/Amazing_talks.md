@@ -10,7 +10,7 @@ Here I listed all of the intersting talks I thought and add a little bit comment
 - PgmNr 1: Cellular Biographies: Reconstructing zebrafish development
 
     - Alex Schier
-    - Reason: can inspair me to think about how to apply this approach to the new fields (plant or microbes) in my career in JGI 
+    - Reason: can inspair me to think about how to apply this approach (using single cell sequencing tech to track the cell lineage under the glassdoor of the development) to the new fields (plant or microbes) in my career in JGI 
 
 
 
